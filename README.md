@@ -12,3 +12,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
 </div>
 
+---
+
+### 💻: My Stats :
+
+### 💻: My Stats :
+
+[![Noah's GitHub stats](https://github-readme-stats.vercel.app/api?username=noahkostesku&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
+
