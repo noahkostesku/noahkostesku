@@ -1,4 +1,4 @@
-`Hi! My name is Noah Kostesku; a Computer Science and Math student @ Western University with a passion for AI and Software Engineering.`
+`Hi! My name is Noah Kostesku; I am a Computer Science and Math student at Western University with a passion for AI and Software Engineering.`
 
 ---
 
