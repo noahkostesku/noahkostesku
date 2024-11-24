@@ -9,6 +9,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
   <img src="https://huggingface.co/front/assets/huggingface_logo.svg" title="Hugging Face" alt="Hugging Face" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/hwchase17/langchain/master/docs/assets/langchain-logo.png" title="LangChain" alt="LangChain" width="100" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
