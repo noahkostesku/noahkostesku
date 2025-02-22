@@ -1,6 +1,7 @@
-`Hi! My name is Noah Kostesku; I am a Computer Science and Math student at Western University with a passion for AI and Machine Learning. Check out my projects below!`
+### `Hi! My name is Noah Kostesku; I am a Computer Science and Math student at Western University with a passion for AI and Machine Learning. Check out my projects below!`
 
 ---
+
 
 ### 💻 Programming Languages:
 <div>
