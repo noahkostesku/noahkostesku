@@ -8,7 +8,7 @@
 ## Currently Learning
 
 - LLM Explainability Techniques
-- Xodo for automating CI/CD pipelines
+- Qodo for automating CI/CD pipelines
 - hollistic and atomistic prompt engineering for system workflows
 
 ---
